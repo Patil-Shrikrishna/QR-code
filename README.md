@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 
 ## Overview
 This is QR Code page which displays a QR code to visit a website.  It is designed both for desktop and mobile.
@@ -26,8 +25,7 @@ This is QR Code page which displays a QR code to visit a website.  It is designe
 
 ### Links
 
-- Solution URL: [https://github.com/Patil-Shrikrishna/QR-code.git](https://github.com/Patil-Shrikrishna/QR-code.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Patil-Shrikrishna/QR-code.git]
 
 ### Built with
 

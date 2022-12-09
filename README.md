@@ -20,13 +20,13 @@ This is QR Code page which displays a QR code to visit a website.  It is designe
 
 ### Screenshot
 
-![https://github.com/Patil-Shrikrishna/QR-code/pictures/QR-Code-Desktop.png](./screenshot.png)
-![https://github.com/Patil-Shrikrishna/QR-code/blob/bb4847782805ab9d41024bc069cd8b0a4c53158f/pictures/QR-Code-mobile.png](./screenshot.png)
+![Desktop screenshot](./pictures/QR-Code-Desktop.png)
+![Mobile screenshot](./pictures/QR-Code-mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Patil-Shrikrishna/QR-code.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with

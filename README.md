@@ -23,10 +23,6 @@ This is QR Code page which displays a QR code to visit a website.  It is designe
 ![Mobile screenshot](./pictures/QR-Code-mobile.png)
 
 
-### Links
-
-- Solution URL: [https://github.com/Patil-Shrikrishna/QR-code.git]
-
 ### Built with
 
 - Semantic HTML5 markup

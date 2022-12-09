@@ -11,6 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
   - [Built with](#built-with)
 
 ## Overview
@@ -21,6 +22,9 @@ This is QR Code page which displays a QR code to visit a website.  It is designe
 ![Desktop screenshot](./pictures/QR-Code-Desktop.png)
 ![Mobile screenshot](./pictures/QR-Code-mobile.png)
 
+### Links
+
+- Live Site URL: [https://qr-code-je9snxupv-patil-shrikrishna.vercel.app/]
 
 ### Built with
 

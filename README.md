@@ -20,7 +20,7 @@ This is QR Code page which displays a QR code to visit a website.  It is designe
 
 ### Screenshot
 
-![https://github.com/Patil-Shrikrishna/QR-code/blob/bb4847782805ab9d41024bc069cd8b0a4c53158f/pictures/QR-Code-Desktop.png](./screenshot.png)
+![https://github.com/Patil-Shrikrishna/QR-code/pictures/QR-Code-Desktop.png](./screenshot.png)
 ![https://github.com/Patil-Shrikrishna/QR-code/blob/bb4847782805ab9d41024bc069cd8b0a4c53158f/pictures/QR-Code-mobile.png](./screenshot.png)
 
 

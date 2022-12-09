@@ -26,7 +26,7 @@ This is QR Code page which displays a QR code to visit a website.  It is designe
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Patil-Shrikrishna/QR-code.git)
+- Solution URL: [https://github.com/Patil-Shrikrishna/QR-code.git](https://github.com/Patil-Shrikrishna/QR-code.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with

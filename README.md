@@ -16,11 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 
 ## Overview
+This is QR Code page which displays a QR code to visit a website.  It is designed both for desktop and mobile.
 
 ### Screenshot
 
-![pictures/QR-Code-Desktop.png](./screenshot.png)
-![pictures/QR-Code-mobile.png](./screenshot.png)
+![https://github.com/Patil-Shrikrishna/QR-code/blob/bb4847782805ab9d41024bc069cd8b0a4c53158f/pictures/QR-Code-Desktop.png](./screenshot.png)
+![https://github.com/Patil-Shrikrishna/QR-code/blob/bb4847782805ab9d41024bc069cd8b0a4c53158f/pictures/QR-Code-mobile.png](./screenshot.png)
 
 
 ### Links

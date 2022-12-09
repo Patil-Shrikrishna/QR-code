@@ -2,7 +2,6 @@ import Card from '@mui/material/Card';
 import './App.css';
 
 function App() {
-  // const qrCode = "images/image-qr-code.png"
   return (
     <div className="App">
         <Card className='qr-card'>
